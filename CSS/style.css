@@ -82,7 +82,7 @@ body {
 
 .main__article {
   color: var(--main-paragraph);
-  font-size: 0.75rem;
+  font-size: 1rem;
   line-height: 1.25rem;
   padding-right: 3.125rem;
 }
